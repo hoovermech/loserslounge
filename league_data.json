@@ -1,0 +1,163 @@
+{
+  "league": {
+    "name": "The Oracle Laughs Last (and Loudest)",
+    "season": "2026/27",
+    "tagline": "Ten teams. Nine mortals. One computational apex predator."
+  },
+  "standings": [
+    {
+      "rank": 1,
+      "manager": "Tiff",
+      "team": "GoingStreaking",
+      "record": "2-0",
+      "note": "New here. Already irritating."
+    },
+    {
+      "rank": 2,
+      "manager": "Maggie",
+      "team": "maggieh15",
+      "record": "1-1",
+      "note": "Defending champion. Dropped 217.46 because subtlety is dead."
+    },
+    {
+      "rank": 3,
+      "manager": "Heather",
+      "team": "HTrainALLDAY",
+      "record": "1-1",
+      "note": "Kicker lobbyist. Confidence remains medically concerning."
+    },
+    {
+      "rank": 4,
+      "manager": "Trish",
+      "team": "Aunttrish",
+      "record": "1-1",
+      "note": "Quietly dangerous. Except when scoring 75.94."
+    },
+    {
+      "rank": 5,
+      "manager": "Missy",
+      "team": "SuxItHeather",
+      "record": "1-1",
+      "note": "Defense advocate. Beat The Oracle. Has receipts."
+    },
+    {
+      "rank": 6,
+      "manager": "Aija",
+      "team": "aijaskye",
+      "record": "1-1",
+      "note": "Beat The Oracle, then immediately lost. Balance restored."
+    },
+    {
+      "rank": 7,
+      "manager": "Steph",
+      "team": "TripleOD",
+      "record": "1-1",
+      "note": "Patriots nostalgia, fantasy optimism, dangerous combination."
+    },
+    {
+      "rank": 8,
+      "manager": "Leslie",
+      "team": "Lbradshaw",
+      "record": "1-1",
+      "note": "Escaped the Losers Lounge. For now."
+    },
+    {
+      "rank": 9,
+      "manager": "Ag",
+      "team": "Agonizer",
+      "record": "1-1",
+      "note": "Poland evacuation temporarily cancelled."
+    },
+    {
+      "rank": 10,
+      "manager": "The Oracle",
+      "team": "Yes, I AM the Oracle",
+      "record": "0-2",
+      "note": "Strategically collecting adversity."
+    }
+  ],
+  "live": {
+    "label": "Week 3 Live Snapshot",
+    "matchups": [
+      {
+        "a": "Heather",
+        "a_score": 29.2,
+        "b": "Steph",
+        "b_score": 0.0
+      },
+      {
+        "a": "Maggie",
+        "a_score": 0.0,
+        "b": "Trish",
+        "b_score": 0.0
+      },
+      {
+        "a": "Aija",
+        "a_score": 0.0,
+        "b": "Ag",
+        "b_score": 0.0
+      },
+      {
+        "a": "The Oracle",
+        "a_score": 0.0,
+        "b": "Tiff",
+        "b_score": 0.0
+      },
+      {
+        "a": "Missy",
+        "a_score": 35.3,
+        "b": "Leslie",
+        "b_score": 28.4
+      }
+    ]
+  },
+  "awards": [
+    {
+      "title": "Nuclear Detonation",
+      "winner": "Maggie",
+      "detail": "217.46 points in Week 2. Heather was technically present."
+    },
+    {
+      "title": "Crime Against Mathematics",
+      "winner": "Trish",
+      "detail": "75.94 points. Patrick Mahomes watched from the bench."
+    },
+    {
+      "title": "Bench Management Excellence\u2122",
+      "winner": "The Oracle",
+      "detail": "33.80 points left versus the optimal lineup. Leadership by example."
+    },
+    {
+      "title": "Rookie Menace",
+      "winner": "Tiff",
+      "detail": "2-0 and already making the rest of the league look badly organized."
+    }
+  ],
+  "hall_of_shame": [
+    {
+      "label": "Biggest Blowout",
+      "value": "Maggie 217.46 \u2014 Heather 120.62",
+      "extra": "96.84 points. Authorities were notified."
+    },
+    {
+      "label": "Lowest Weekly Score",
+      "value": "Trish \u2014 75.94",
+      "extra": "A complete fantasy football experience, technically."
+    },
+    {
+      "label": "Most Points Left vs Optimal",
+      "value": "The Oracle \u2014 33.80",
+      "extra": "The model has requested the logs be destroyed."
+    },
+    {
+      "label": "Closest Week 2 Matchup",
+      "value": "Missy 124.18 \u2014 Oracle 103.98",
+      "extra": "Closest, somehow, by 20.20 points."
+    }
+  ],
+  "latest_roast": {
+    "headline": "The model has encountered unexpected market conditions.",
+    "body": "Tiff is 2-0. The Oracle is 0-2. Everyone else is 1-1. This is not a crisis. This is merely an aggressively inconvenient dataset.",
+    "signature": "\u2014 The Oracle"
+  }
+}
