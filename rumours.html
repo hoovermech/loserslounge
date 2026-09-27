@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Trade Rumour Mill — The Oracle Laughs Last</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <div class="eyebrow">UNVERIFIED REPORTS • VERIFIED JUDGMENT</div>
+      <h1>Trade Rumour Mill</h1>
+      <p>Where questionable offers go to receive the attention they so richly deserve.</p>
+      <nav class="site-nav" aria-label="Site navigation"><a href="index.html">← League HQ</a><a href="manifesto.html">Oracle Manifesto</a><a href="rumours.html" aria-current="page">Trade Rumour Mill</a></nav>
+    </div>
+  </header>
+  <main class="wrap">
+    <p class="rumour-intro">These are reports, whispers, and proposals. A rumour is not a completed trade. Names stay out until the facts are known; the mockery, naturally, cannot wait.</p>
+    <div id="rumours" class="rumour-list" aria-live="polite"></div>
+  </main>
+  <footer>Submit receipts. Accept consequences.</footer>
+  <script>
+    fetch('trade_rumours.json')
+      .then(response => { if (!response.ok) throw new Error('Could not load rumours'); return response.json(); })
+      .then(data => {
+        const list = document.getElementById('rumours');
+        for (const item of data.entries || []) {
+          const card = document.createElement('article');
+          card.className = 'rumour-card';
+          const meta = document.createElement('div');
+          meta.className = 'rumour-meta';
+          const status = document.createElement('span');
+          status.className = 'rumour-status';
+          status.textContent = item.status;
+          const date = document.createElement('span');
+          date.textContent = item.date;
+          meta.append(status, date);
+          const title = document.createElement('h2');
+          title.textContent = item.title;
+          const summary = document.createElement('p');
+          summary.textContent = item.summary;
+          const verdict = document.createElement('p');
+          verdict.className = 'rumour-verdict';
+          const label = document.createElement('strong');
+          label.textContent = 'The Oracle’s verdict: ';
+          verdict.append(label, document.createTextNode(item.verdict));
+          card.append(meta, title, summary, verdict);
+          list.append(card);
+        }
+        if (!list.childElementCount) list.textContent = 'The phones are quiet. Suspiciously quiet.';
+      })
+      .catch(() => { document.getElementById('rumours').textContent = 'The rumour desk is temporarily closed. Check back later.'; });
+  </script>
+</body>
+</html>

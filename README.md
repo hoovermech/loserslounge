@@ -43,3 +43,24 @@ should be updated manually. Existing manager notes are kept until a manager's
 record changes; then the dated note is cleared to avoid stale claims. During
 an offseason or an empty Sleeper week the scheduled job may fail safely and
 leave the last published site in place.
+
+## Trade Rumour Mill: manual updates
+
+The page `rumours.html` reads the plain-text file `trade_rumours.json`. To edit:
+
+1. Open the GitHub repository's `trade_rumours.json` file and click the pencil
+   (Edit this file).
+2. Edit the entry's `date`, `status`, `title`, `summary` or `verdict` text.
+   Keep the quotation marks, commas and braces. To add another rumour, copy
+   the entire `{ ... }` object and put a comma between entries. Put the newest
+   entry at the top.
+3. Click **Commit changes** to `main`. The workflow runs on each push and
+   publishes the updated page after refreshing the Sleeper data.
+
+Useful statuses: `Unconfirmed rumour`, `Offer reported`, `Rejected`,
+`Accepted`, `Completed`. Confirm status and parties before changing a rumour
+into a stated fact. The initial Bowers/Tucker item names no managers.
+
+For a simple replacement without touching JSON punctuation, ask the Oracle
+for an updated `trade_rumours.json` with the new report, then upload that one
+file to the repository.
