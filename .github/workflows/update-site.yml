@@ -26,7 +26,7 @@ jobs:
       - name: Build site from Sleeper
         run: |
           mkdir public
-          cp index.html manifesto.html styles.css app.js league_data.json public/
+          cp index.html manifesto.html rumours.html trade_rumours.json styles.css app.js league_data.json public/
           if [ -f CNAME ]; then cp CNAME public/; fi
           python update_from_sleeper.py --data public/league_data.json
       - uses: actions/configure-pages@v5
