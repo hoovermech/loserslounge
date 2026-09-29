@@ -1,11 +1,18 @@
 {
   "entries": [
     {
+      "date": "September 29, 2026",
+      "status": "Completed trade",
+      "title": "Dobbins for Tuten: the paperwork survived the judgement",
+      "summary": "Leslie receives J.K. Dobbins. Heather receives Bhayshul Tuten. Sleeper marks the trade complete; both sides have exchanged players, and the Oracle has retained the right to be unbearable about it.",
+      "verdict": "It is difficult to accept stupidity in others, but the trade desk has let this one through. Leslie gets Dobbins; Heather gets Tuten; The Oracle gets two managers to quote back to themselves later. Everyone receives something."
+    },
+    {
       "date": "September 26, 2026",
-      "status": "Unconfirmed rumour",
+      "status": "Rejected offer",
       "title": "Brock Bowers for Tre Tucker?",
-      "summary": "Word has reached Oracle HQ that a Bowers-for-Tucker swap was proposed. The managers involved have not been identified, and no deal has been confirmed.",
-      "verdict": "Somewhere, a trade calculator just requested a wellness check. If this was a serious opening offer, the audacity deserves its own roster spot."
+      "summary": "The reported Brock Bowers-for-Tre Tucker offer was rejected. The managers remain unnamed; the audacity has waived its right to anonymity.",
+      "verdict": "A trade calculator requested a wellness check. Fortunately, someone at the receiving end still had access to the word no."
     }
   ]
 }

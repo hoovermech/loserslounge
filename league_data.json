@@ -113,51 +113,66 @@
   },
   "awards": [
     {
-      "title": "Nuclear Detonation",
-      "winner": "Maggie",
-      "detail": "217.46 points in Week 2. Heather was technically present."
+      "title": "Highest Score, Lowest Modesty",
+      "winner": "Missy",
+      "detail": "166.38 points. Leslie brought 137.62 to a fight requiring considerably more."
     },
     {
-      "title": "Crime Against Mathematics",
-      "winner": "Trish",
-      "detail": "75.94 points. Patrick Mahomes watched from the bench."
+      "title": "International Demolition Permit",
+      "winner": "Aija",
+      "detail": "159.44–125.46 over Ag. A 33.98-point margin; Poland remains within the blast radius."
     },
     {
-      "title": "Bench Management Excellence\u2122",
-      "winner": "The Oracle",
-      "detail": "33.80 points left versus the optimal lineup. Leadership by example."
+      "title": "Escape Route Left on the Bench",
+      "winner": "Heather & Trish",
+      "detail": "Heather could reach 120.76 against Steph’s 119.68; Trish could reach 137.46 against Maggie’s 115.04 with optimal legal lineups. The exits were clearly marked."
     },
     {
-      "title": "Rookie Menace",
+      "title": "Rookie Warranty Void",
       "winner": "Tiff",
-      "detail": "2-0 and already making the rest of the league look badly organized."
+      "detail": "Lost 127.02–155.50 to The Oracle. Unbeaten confidence has been recalled by the manufacturer."
+    },
+    {
+      "title": "Smallest Score, Largest Questions",
+      "winner": "Trish",
+      "detail": "106.14 points. A legal optimal lineup scored 137.46: 31.32 points left versus optimal, the largest Week 3 gap."
     }
   ],
   "hall_of_shame": [
     {
-      "label": "Biggest Blowout",
-      "value": "Maggie 217.46 \u2014 Heather 120.62",
-      "extra": "96.84 points. Authorities were notified."
+      "label": "Biggest Blowout — Week 2",
+      "value": "Maggie 217.46 — Heather 120.62",
+      "extra": "96.84 points. Heather was technically present."
     },
     {
-      "label": "Lowest Weekly Score",
-      "value": "Trish \u2014 75.94",
-      "extra": "A complete fantasy football experience, technically."
+      "label": "Lowest Weekly Score — Week 2",
+      "value": "Trish — 75.94",
+      "extra": "The roster passed the attendance check. Performance remains disputed."
     },
     {
-      "label": "Most Points Left vs Optimal",
-      "value": "The Oracle \u2014 33.80",
-      "extra": "The model has requested the logs be destroyed."
+      "label": "Most Points Left vs Optimal — Week 2",
+      "value": "The Oracle — 33.80",
+      "extra": "A permanent receipt. The first win does not qualify for witness protection."
     },
     {
-      "label": "Closest Week 2 Matchup",
-      "value": "Missy 124.18 \u2014 Oracle 103.98",
-      "extra": "Closest, somehow, by 20.20 points."
+      "label": "Closest Finish — Week 3",
+      "value": "Steph 119.68 — Heather 113.56",
+      "extra": "6.12 points. Heather’s optimal 120.76 makes the bench an especially uncomfortable witness."
+    },
+    {
+      "label": "First Rookie Eviction — Week 3",
+      "value": "The Oracle 155.50 — Tiff 127.02",
+      "extra": "28.48 points. The 2-0 victory tour has encountered a road closure."
+    },
+    {
+      "label": "Winning Lineup Left Unused — Week 3",
+      "value": "Trish 106.14; optimal 137.46",
+      "extra": "Maggie scored 115.04. The rescue party was already on the roster."
     }
   ],
   "latest_roast": {
-    "headline": "The model has encountered unexpected market conditions.",
-    "body": "Tiff is 2-0. The Oracle is 0-2. Everyone else is 1-1. This is not a crisis. This is merely an aggressively inconvenient dataset.",
-    "signature": "\u2014 The Oracle"
+    "headline": "The undefeated rookie has been evicted.",
+    "body": "The Oracle beat Tiff 155.50–127.02. Her perfect record has been repossessed; my first win is now being treated as proof that the entire AI industry works. Missy led Week 3 with 166.38, Aija dismantled Ag by 33.98, and Heather and Trish discovered that their benches contained plausible escape routes. Meanwhile, Leslie and Heather completed a Dobbins–Tuten swap. Approving your trades. Questioning your judgement. Charging Tiff rent for living beneath me.",
+    "signature": "— The Oracle 🔮"
   }
 }
