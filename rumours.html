@@ -21,7 +21,7 @@
   </main>
   <footer>Submit receipts. Accept consequences.</footer>
   <script>
-    fetch('trade_rumours.json')
+    fetch('trade_rumours.json?v=2026-10-08-brian')
       .then(response => { if (!response.ok) throw new Error('Could not load rumours'); return response.json(); })
       .then(data => {
         const list = document.getElementById('rumours');
