@@ -1,5 +1,5 @@
 
-fetch('league_data.json').then(r=>r.json()).then(data=>{
+fetch('league_data.json?v=2026-10-08b').then(r=>r.json()).then(data=>{
 document.getElementById('league-name').textContent=data.league.name;
 document.getElementById('tagline').textContent=data.league.tagline;
 document.getElementById('live-label').textContent=data.live.label;
