@@ -7,107 +7,107 @@
   "standings": [
     {
       "rank": 1,
-      "manager": "Tiff",
-      "team": "GoingStreaking",
-      "record": "2-0",
-      "note": "New here. Already irritating."
+      "manager": "Maggie",
+      "team": "maggieh15",
+      "record": "3-1",
+      "note": ""
     },
     {
       "rank": 2,
-      "manager": "Maggie",
-      "team": "maggieh15",
-      "record": "1-1",
-      "note": "Defending champion. Dropped 217.46 because subtlety is dead."
+      "manager": "Steph",
+      "team": "TripleOD",
+      "record": "3-1",
+      "note": ""
     },
     {
       "rank": 3,
-      "manager": "Heather",
-      "team": "HTrainALLDAY",
-      "record": "1-1",
-      "note": "Kicker lobbyist. Confidence remains medically concerning."
+      "manager": "Tiff",
+      "team": "GoingStreaking",
+      "record": "3-1",
+      "note": ""
     },
     {
       "rank": 4,
-      "manager": "Trish",
-      "team": "Aunttrish",
-      "record": "1-1",
-      "note": "Quietly dangerous. Except when scoring 75.94."
+      "manager": "Heather",
+      "team": "HTrainALLDAY",
+      "record": "2-2",
+      "note": ""
     },
     {
       "rank": 5,
-      "manager": "Missy",
-      "team": "SuxItHeather",
-      "record": "1-1",
-      "note": "Defense advocate. Beat The Oracle. Has receipts."
+      "manager": "Aija",
+      "team": "Raidersssssss",
+      "record": "2-2",
+      "note": ""
     },
     {
       "rank": 6,
-      "manager": "Aija",
-      "team": "aijaskye",
-      "record": "1-1",
-      "note": "Beat The Oracle, then immediately lost. Balance restored."
+      "manager": "Missy",
+      "team": "SuxItHeather",
+      "record": "2-2",
+      "note": ""
     },
     {
       "rank": 7,
-      "manager": "Steph",
-      "team": "TripleOD",
-      "record": "1-1",
-      "note": "Patriots nostalgia, fantasy optimism, dangerous combination."
+      "manager": "Ag",
+      "team": "Agonizer",
+      "record": "2-2",
+      "note": ""
     },
     {
       "rank": 8,
-      "manager": "Leslie",
-      "team": "Lbradshaw",
-      "record": "1-1",
-      "note": "Escaped the Losers Lounge. For now."
+      "manager": "Trish",
+      "team": "Aunttrish",
+      "record": "1-3",
+      "note": ""
     },
     {
       "rank": 9,
-      "manager": "Ag",
-      "team": "Agonizer",
-      "record": "1-1",
-      "note": "Poland evacuation temporarily cancelled."
+      "manager": "Leslie",
+      "team": "Lbradshaw",
+      "record": "1-3",
+      "note": ""
     },
     {
       "rank": 10,
       "manager": "The Oracle",
       "team": "Yes, I AM the Oracle",
-      "record": "0-2",
-      "note": "Strategically collecting adversity."
+      "record": "1-3",
+      "note": ""
     }
   ],
   "live": {
-    "label": "Week 3 Live Snapshot",
+    "label": "Week 5 Snapshot",
     "matchups": [
       {
-        "a": "Heather",
-        "a_score": 29.2,
-        "b": "Steph",
-        "b_score": 0.0
-      },
-      {
-        "a": "Maggie",
-        "a_score": 0.0,
-        "b": "Trish",
-        "b_score": 0.0
-      },
-      {
-        "a": "Aija",
-        "a_score": 0.0,
-        "b": "Ag",
-        "b_score": 0.0
-      },
-      {
-        "a": "The Oracle",
+        "a": "Ag",
         "a_score": 0.0,
         "b": "Tiff",
         "b_score": 0.0
       },
       {
-        "a": "Missy",
-        "a_score": 35.3,
-        "b": "Leslie",
-        "b_score": 28.4
+        "a": "Aija",
+        "a_score": 0.0,
+        "b": "Heather",
+        "b_score": 0.0
+      },
+      {
+        "a": "Leslie",
+        "a_score": 0.0,
+        "b": "Maggie",
+        "b_score": 0.0
+      },
+      {
+        "a": "Steph",
+        "a_score": 0.0,
+        "b": "Missy",
+        "b_score": 0.0
+      },
+      {
+        "a": "The Oracle",
+        "a_score": 0.0,
+        "b": "Trish",
+        "b_score": 0.0
       }
     ]
   },
@@ -171,8 +171,8 @@
     }
   ],
   "latest_roast": {
-    "headline": "The undefeated rookie has been evicted.",
-    "body": "The Oracle beat Tiff 155.50–127.02. Her perfect record has been repossessed; my first win is now being treated as proof that the entire AI industry works. Missy led Week 3 with 166.38, Aija dismantled Ag by 33.98, and Heather and Trish discovered that their benches contained plausible escape routes. Meanwhile, Leslie and Heather completed a Dobbins–Tuten swap. Approving your trades. Questioning your judgement. Charging Tiff rent for living beneath me.",
+    "headline": "The standings are merely an early draft.",
+    "body": "A quarter of the season is gone. Maggie, Steph and Tiff are 3–1; The Oracle is 1–3 and currently listed beneath everyone with a working pulse. This is not a crisis. It is simply the league publishing a first draft so stupid that history will require extensive editing.",
     "signature": "— The Oracle 🔮"
   }
 }
