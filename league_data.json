@@ -6,136 +6,136 @@
   },
   "standings": [
     {
-      "rank": 1,
       "manager": "Maggie",
       "team": "maggieh15",
-      "record": "3-1",
-      "note": ""
+      "record": "4-1",
+      "note": "",
+      "rank": 1
     },
     {
-      "rank": 2,
-      "manager": "Steph",
-      "team": "TripleOD",
-      "record": "3-1",
-      "note": ""
-    },
-    {
-      "rank": 3,
       "manager": "Tiff",
       "team": "GoingStreaking",
-      "record": "3-1",
-      "note": ""
+      "record": "4-1",
+      "note": "",
+      "rank": 2
     },
     {
-      "rank": 4,
-      "manager": "Heather",
-      "team": "HTrainALLDAY",
-      "record": "2-2",
-      "note": ""
+      "manager": "Steph",
+      "team": "TripleOD",
+      "record": "3-2",
+      "note": "",
+      "rank": 3
     },
     {
-      "rank": 5,
-      "manager": "Aija",
-      "team": "Raidersssssss",
-      "record": "2-2",
-      "note": ""
-    },
-    {
-      "rank": 6,
       "manager": "Missy",
       "team": "SuxItHeather",
-      "record": "2-2",
-      "note": ""
+      "record": "3-2",
+      "note": "",
+      "rank": 4
     },
     {
-      "rank": 7,
-      "manager": "Ag",
-      "team": "Agonizer",
-      "record": "2-2",
-      "note": ""
+      "manager": "Heather",
+      "team": "HTrainALLDAY",
+      "record": "3-2",
+      "note": "",
+      "rank": 5
     },
     {
-      "rank": 8,
-      "manager": "Trish",
-      "team": "Aunttrish",
-      "record": "1-3",
-      "note": ""
-    },
-    {
-      "rank": 9,
-      "manager": "Leslie",
-      "team": "Lbradshaw",
-      "record": "1-3",
-      "note": ""
-    },
-    {
-      "rank": 10,
       "manager": "The Oracle",
       "team": "Yes, I AM the Oracle",
-      "record": "1-3",
-      "note": ""
+      "record": "2-3",
+      "note": "",
+      "rank": 6
+    },
+    {
+      "manager": "Aija",
+      "team": "Raidersssssss",
+      "record": "2-3",
+      "note": "",
+      "rank": 7
+    },
+    {
+      "manager": "Ag",
+      "team": "Agonizer",
+      "record": "2-3",
+      "note": "",
+      "rank": 8
+    },
+    {
+      "manager": "Trish",
+      "team": "Aunttrish",
+      "record": "1-4",
+      "note": "",
+      "rank": 9
+    },
+    {
+      "manager": "Leslie",
+      "team": "Lbradshaw",
+      "record": "1-4",
+      "note": "",
+      "rank": 10
     }
   ],
   "live": {
-    "label": "Week 5 Snapshot",
+    "label": "Week 6 Snapshot",
     "matchups": [
       {
-        "a": "Ag",
-        "a_score": 0.0,
-        "b": "Tiff",
-        "b_score": 0.0
-      },
-      {
         "a": "Aija",
-        "a_score": 0.0,
-        "b": "Heather",
-        "b_score": 0.0
+        "a_score": 17.5,
+        "b": "Missy",
+        "b_score": 41.7
       },
       {
         "a": "Leslie",
-        "a_score": 0.0,
-        "b": "Maggie",
-        "b_score": 0.0
+        "a_score": 43.9,
+        "b": "Trish",
+        "b_score": 16.2
+      },
+      {
+        "a": "Maggie",
+        "a_score": 34.9,
+        "b": "Ag",
+        "b_score": 63.42
       },
       {
         "a": "Steph",
-        "a_score": 0.0,
-        "b": "Missy",
-        "b_score": 0.0
+        "a_score": 75.14,
+        "b": "Tiff",
+        "b_score": 42.6
       },
       {
         "a": "The Oracle",
-        "a_score": 0.0,
-        "b": "Trish",
-        "b_score": 0.0
+        "a_score": 27.0,
+        "b": "Heather",
+        "b_score": 55.3
       }
     ]
   },
   "awards": [
     {
-      "title": "Highest Score, Lowest Modesty",
+      "title": "Highest Score, Correct Department",
       "winner": "Missy",
-      "detail": "166.38 points. Leslie brought 137.62 to a fight requiring considerably more."
+      "detail": "Week 5 final: 189.56. Maye’s 39.46 and Jaylen Warren’s 36.80 reached the starting lineup. The bench franchise has merged with headquarters."
     },
     {
-      "title": "International Demolition Permit",
-      "winner": "Aija",
-      "detail": "159.44–125.46 over Ag. A 33.98-point margin; Poland remains within the blast radius."
+      "title": "Biggest Demolition",
+      "winner": "Heather",
+      "detail": "Week 5 final: 166.00–119.62 over Aija, a 46.38-point margin. Shrader scored 16; Heather’s forthcoming lecture on kickers has no scheduled end."
     },
     {
-      "title": "Escape Route Left on the Bench",
-      "winner": "Heather & Trish",
-      "detail": "Heather could reach 120.76 against Steph’s 119.68; Trish could reach 137.46 against Maggie’s 115.04 with optimal legal lineups. The exits were clearly marked."
+      "title": "Divine Comeback",
+      "winner": "The Oracle",
+      "detail": "Week 5 final: 163.12–157.80 over Trish. A 5.32-point victory, now being expanded into an unnecessarily large religious movement."
     },
     {
-      "title": "Rookie Warranty Void",
-      "winner": "Tiff",
-      "detail": "Lost 127.02–155.50 to The Oracle. Unbeaten confidence has been recalled by the manufacturer."
+      "title": "Perfect Selection, Terrible Outcome",
+      "winner": "Steph",
+      "detail": "Week 5 final: 151.68, matching her optimal legal lineup. Missy scored 189.56 anyway. Management has requested a different opponent."
     },
     {
-      "title": "Smallest Score, Largest Questions",
-      "winner": "Trish",
-      "detail": "106.14 points. A legal optimal lineup scored 137.46: 31.32 points left versus optimal, the largest Week 3 gap."
+      "title": "Winning Ingredients, Wrong Plate",
+      "winner": "Leslie",
+      "detail": "Week 5 final: 105.04; optimal legal lineup 128.76 against Maggie’s actual 121.54. Dinner was available. A photograph was served."
     }
   ],
   "hall_of_shame": [
@@ -150,14 +150,9 @@
       "extra": "The roster passed the attendance check. Performance remains disputed."
     },
     {
-      "label": "Most Points Left vs Optimal — Week 2",
+      "label": "Oracle Bench Confession — Week 2",
       "value": "The Oracle — 33.80",
       "extra": "A permanent receipt. The first win does not qualify for witness protection."
-    },
-    {
-      "label": "Closest Finish — Week 3",
-      "value": "Steph 119.68 — Heather 113.56",
-      "extra": "6.12 points. Heather’s optimal 120.76 makes the bench an especially uncomfortable witness."
     },
     {
       "label": "First Rookie Eviction — Week 3",
@@ -168,12 +163,31 @@
       "label": "Winning Lineup Left Unused — Week 3",
       "value": "Trish 106.14; optimal 137.46",
       "extra": "Maggie scored 115.04. The rescue party was already on the roster."
+    },
+    {
+      "label": "Bench Franchise of the Week — Week 4",
+      "value": "Missy — 52.64 points left versus optimal",
+      "extra": "109.42 submitted; 162.06 available. Ag won with 117.04. The rescue party was already employed."
+    },
+    {
+      "label": "Comeback Receipt — Week 5",
+      "value": "The Oracle 163.12 — Trish 157.80",
+      "extra": "5.32 points. Trish’s optimal 161.00 still fell short. The victory speech has been granted planning permission."
+    },
+    {
+      "label": "Winning Lineup Left Unused — Week 5",
+      "value": "Leslie 105.04; optimal 128.76",
+      "extra": "Maggie scored 121.54. The ingredients were in the kitchen; management served the menu."
+    },
+    {
+      "label": "Trade-Clock Protest — Week 6",
+      "value": "Heather vs 48 hours",
+      "extra": "Repeated foot-stamping produced excellent kicking practice and no measurable change in time."
     }
   ],
   "latest_roast": {
-    "headline": "The standings are merely an early draft.",
-    "body": "A quarter of the season is gone. Maggie, Steph and Tiff are 3–1; The Oracle is 1–3 and currently listed beneath everyone with a working pulse. This is not a crisis. It is simply the league publishing a first draft so stupid that history will require extensive editing.",
-    "signature": "— The Oracle 🔮"
+    "headline": "Heather can have the early lead. Express shipping remains unavailable.",
+    "body": "Week 6 is live, the Likely–Andrews–Mitchell trade has cleared, and Heather’s foot-stamping has failed to accelerate time. Ag dropped Josh Jacobs and then welcomed him back. Tiff’s confidence still exceeds the available supporting evidence. Meanwhile, The Oracle is preparing another comeback and reserving the right to describe any result as part of the plan.",
+    "signature": "— The Oracle 🔮 | Receipts preserved. Patience sold separately."
   }
 }
-
